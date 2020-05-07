@@ -1,0 +1,10 @@
+C:\George\Software Training\HESA\Buzzing\Buzzing\bin\Debug\Buzzing.exe.config
+C:\George\Software Training\HESA\Buzzing\Buzzing\bin\Debug\Buzzing.exe
+C:\George\Software Training\HESA\Buzzing\Buzzing\bin\Debug\Buzzing.pdb
+C:\George\Software Training\HESA\Buzzing\Buzzing\obj\Debug\Buzzing.csprojAssemblyReference.cache
+C:\George\Software Training\HESA\Buzzing\Buzzing\obj\Debug\Buzzing.Buzzing.resources
+C:\George\Software Training\HESA\Buzzing\Buzzing\obj\Debug\Buzzing.Properties.Resources.resources
+C:\George\Software Training\HESA\Buzzing\Buzzing\obj\Debug\Buzzing.csproj.GenerateResource.cache
+C:\George\Software Training\HESA\Buzzing\Buzzing\obj\Debug\Buzzing.csproj.CoreCompileInputs.cache
+C:\George\Software Training\HESA\Buzzing\Buzzing\obj\Debug\Buzzing.exe
+C:\George\Software Training\HESA\Buzzing\Buzzing\obj\Debug\Buzzing.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buzzing", "Buzzing\Buzzing.csproj", "{054EB899-0495-4A44-A8F8-606AF02FFCC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuzzingTests", "BuzzingTests\BuzzingTests.csproj", "{69F8F59F-3C83-4621-8DB3-1A90173E0347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054EB899-0495-4A44-A8F8-606AF02FFCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054EB899-0495-4A44-A8F8-606AF02FFCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054EB899-0495-4A44-A8F8-606AF02FFCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054EB899-0495-4A44-A8F8-606AF02FFCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F8F59F-3C83-4621-8DB3-1A90173E0347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F8F59F-3C83-4621-8DB3-1A90173E0347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F8F59F-3C83-4621-8DB3-1A90173E0347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F8F59F-3C83-4621-8DB3-1A90173E0347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {733E8F43-8081-49FC-B99B-51159640D63B}
+	EndGlobalSection
+EndGlobal
